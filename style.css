@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #0a0a0a;
+  color: #fff;
+  text-align: center;
+}
+header {
+  padding: 60px 20px;
+  background: linear-gradient(to bottom, #111, #000);
+}
+h1 {
+  font-size: 3em;
+  color: gold;
+}
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  background: #111;
+  color: #aaa;
+}
